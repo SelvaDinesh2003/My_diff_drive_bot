@@ -3,3 +3,7 @@ install/
 log/
 *.pyc
 *.swp
+
+# VSCode workspace
+.vs/
+.vscode/
