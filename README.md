@@ -4,5 +4,5 @@ A ROS 2 Jazzy-based autonomous differential drive robot.
 
 ## Features
 - Differential drive control
-- LIDAR + IMU integration
+- LIDAR 
 - SLAM & Navigation support
